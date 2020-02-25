@@ -1,0 +1,52 @@
+/* Max Width 480px
+------------------------------------------------- */
+
+@media screen and (max-width: 480px) {
+
+	.marquee {
+		height: 315px;
+	}
+
+	.marquee-content h1 {
+		font-size: 2em;
+	}
+
+	.marquee-content h2 {
+		font-size: 1em;
+	}
+
+	.mod-1-content {
+		padding: 40px 25px;
+	}
+
+	.accordion-step {
+		display: block;
+		margin: 0 auto 5px;
+	}
+
+	.accordion-header {
+		display: block;
+		text-align: center;
+	}
+
+	.accordion-thumb::after {
+		top: 8px;
+	}
+
+	.accordion-panel {
+		padding: 0 0 10px 0;
+	}
+
+	.mod-4 {
+		padding: 20px;
+	}
+
+	.mod-7-box {
+		padding: 20px;
+	}
+
+	.mod-8-content h2 {
+		font-size: 1.5em;
+	}
+
+}

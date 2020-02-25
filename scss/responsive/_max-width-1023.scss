@@ -1,0 +1,48 @@
+/* Max Width 1023px
+------------------------------------------------- */
+
+@media screen and (max-width: 1023px) {
+
+	.marquee {
+		height: 415px;
+	}
+
+	.marquee-content h1 {
+		font-size: 3.5em;
+	}
+
+	.marquee-content h2 {
+		font-size: 1.5em;
+	}
+
+	.mod-1-content h2 {
+		font-size: 1.5em;
+	}
+
+	.accordion-thumb {
+		font-size: 1.5em;
+	}
+
+	.mod-4 h3 {
+		font-size: 1.375em;
+	}
+
+	.mod-6-content h2 {
+		font-size: 1.75em;
+	}
+
+	.mod-7-box {
+		float: none;
+		width: auto;
+		margin: 0 0 15px 0;
+	}
+
+	.mod-7-box h2 {
+		font-size: 1.5em;
+	}
+
+	.mod-8-content h2 {
+		font-size: 2em;
+	}
+
+}

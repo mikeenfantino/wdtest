@@ -1,0 +1,39 @@
+/* Max Width 650px
+------------------------------------------------- */
+
+@media screen and (max-width: 650px) {
+
+	.mod-1-content h2 {
+		font-size: 1.25em;
+	}
+
+	.accordion-thumb {
+		font-size: 1.125em;
+	}
+
+	.mod-4-col-1 {
+		float: none;
+		width: auto;
+	}
+
+	.mod-4-col-2 {
+		float: none;
+		width: auto;
+		margin-top: 20px;
+	}
+
+	.mod-5 img {
+		float: none;
+		margin: 0 auto 15px;
+		display: block;
+	}
+
+	.mod-4-link {
+		margin: 0;
+	}
+
+	.mod-5-content h3 {
+		text-align: center;
+	}
+
+}
